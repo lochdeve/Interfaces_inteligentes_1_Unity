@@ -14,3 +14,5 @@ En mi caso de los objetos 3D basicos he utilizado el cubo y el terreno.Luego de 
 Para el terreno he hecho uso de una herramienta para elevar el terreno y darle forma montañosa con una explanada y le he puesto textura. Para las dos fuentes de luz he utilizado una luz direccional para iluminacion general de la escena y otra para enfocar a un aguila y al cubo, siendo el aguila o objeto con movimiento obtenido de la Asset Store.
 Tambien he asignado una etiqueta a cada objeto las cuales he utilizado en el script.
 Y por ultimo he utilizado un prefabs de standard assets para un FPS.
+
+![gif](https://github.com/lochdeve/Interfaces_inteligentes_1_Unity/blob/main/2021-10-10%2020-15-40.gif)
